@@ -2,7 +2,7 @@
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen?style=for-the-badge)](#)
+![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen?style=for-the-badge)
 
 A structured repository containing Core Java concepts, Object-Oriented Programming (OOP), and Data Structures & Algorithms (DSA) implementations from fundamentals to advanced topics.
 
@@ -55,6 +55,7 @@ Java-Programming-Practice/
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - **Java Development Kit (JDK)**: Version 8 or higher (JDK 17+ / 21 LTS recommended)
 - **Git**
 
